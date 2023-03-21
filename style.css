@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1{
+    margin-top: 50px;
+    font-family: 'Sacramento',cursive;
+    font-size: 80px;
+    color: white;
+    line-height: 0.7;
+}
+.wd{
+    font-size: 40px;
+    color: #FAFAFA;
+}
+.bwd{
+    color: #CDD0CB;
+    font-family: 'Montserrat',sans-serif;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    padding-top: 30px;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bolder;
+}
+.top-container{
+    background-image: url("bkgrnd.png");
+    position: relative;
+    padding-top: 100px;
+    height: 400px;
+}
+.bottom-container{
+    background-color: #282c33;
+    color: white;
+    position: relative;
+    padding-bottom: 20px;
+}
+.contact-me{
+    background-color: #393E46;
+    color: whitesmoke;
+    padding-bottom: 10px;
+}
+.code1{
+    height: 170px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+.code2{
+    height: 170px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    float: right;
+    margin-left: 20px;
+}
+.pic{
+    position: relative;
+    margin-top: 30px;
+    aspect-ratio: 1;
+  object-fit: cover; /* use the one you need */
+    border-radius: 50%;
+    width: auto;
+    height: 300px;
+    margin: -50;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 20px;
+}
+hr{
+    border: dotted #B7C4CF;
+    border-width: 10px;
+    border-bottom: none;
+    width: 4%;
+    margin: 60px auto;
+}
+
+.buttonClass {
+    font-size:15px;
+    font-family: 'Montserrat',sans-serif;
+    width:153px;
+    height:51px;
+    border-width:1px;
+    color:#fff;
+    border-color:#84bbf3;
+    font-weight:bold;
+    border-top-left-radius:9px;
+    border-top-right-radius:9px;
+    border-bottom-left-radius:9px;
+    border-bottom-right-radius:9px;
+    box-shadow:inset 0px 1px 0px 0px rgba(167, 198, 226, 1);
+    text-shadow:inset 0px 1px 0px rgba(36, 70, 104, 1);
+    background:linear-gradient(rgba(83, 144, 204, 1), rgba(24, 51, 77, 1));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(24, 51, 77, 1), rgba(83, 144, 204, 1));
+  }
+  a{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #5CB8E4;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  .cr{
+    padding-top: 20px;
+    font-size: 0.75rem;
+  }
+  .li{
+    height: 50px;
+  }
+
+                  
